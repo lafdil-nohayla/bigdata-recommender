@@ -18,3 +18,5 @@ __pycache__/
 # Temp
 /tmp/
 *.tmp
+*.csv
+data/
