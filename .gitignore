@@ -1,0 +1,20 @@
+# Dataset (trop lourd pour GitHub)
+data/Reviews.csv
+data/*.csv
+
+# Modèles entraînés
+*.pkl
+spark-models/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Temp
+/tmp/
+*.tmp
